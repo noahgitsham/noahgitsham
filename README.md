@@ -1,3 +1,5 @@
+![Hello](./icelandicHills.jpg)
+
 Shit I like:
 - c++
 - nvim
