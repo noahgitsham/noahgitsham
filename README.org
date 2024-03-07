@@ -1,2 +1,6 @@
 * Hey
 I'm Noah
+
+[[./kitten.gif]]
+
+Neovim and Emacs plugins [[https://github.com/pluginsbynoah][here]]
