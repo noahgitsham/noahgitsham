@@ -1,6 +1,9 @@
 * Hey
-I'm Noah
+#+BEGIN_SRC
+ /|
+(% 7
+|  \
+lU_,)/
+#+END_SRC
 
-[[./kitten.gif]]
-
-Neovim and Emacs plugins [[https://github.com/pluginsbynoah][here]] (coming soon)
+Neovim and Emacs plugins [[https://github.com/pluginsbynoah][here]] (WIP)
