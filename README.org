@@ -5,5 +5,3 @@
 |  \
 lU_,)/
 #+END_SRC
-
-Neovim and Emacs plugins [[https://github.com/pluginsbynoah][here]] (WIP)
