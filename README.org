@@ -1,4 +1,3 @@
-* Hey
 #+BEGIN_SRC
  /|
 (% 7
